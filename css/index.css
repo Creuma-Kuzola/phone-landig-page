@@ -21,15 +21,14 @@ body{
 
 .img-logo{
     
-    width: 5vw;
+    width: 8vw;
     object-fit: cover;
-    padding-top: 0.5vw;
-    padding-left:1vw;
+    padding-top: 1vw;
+    padding-left:3vw;
 }
 
 .menu-desktop-header{
-
-    padding-top: 1vw;
+    padding-top: 2vw;
 }
 
 .menu-desktop-header-item{
@@ -82,7 +81,7 @@ body{
   }
 
 .section-icons-header{
-    padding-top: 1vw;
+    padding-top: 2vw;
     padding-left: 30vw;
 }
 
